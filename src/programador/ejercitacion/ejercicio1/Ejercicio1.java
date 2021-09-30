@@ -5,7 +5,7 @@
  * debe compilarse para ejecutarse.
 
  */
-package programador.ejercicio1;
+package programador.ejercitacion.ejercicio1;
 
 /**
  *

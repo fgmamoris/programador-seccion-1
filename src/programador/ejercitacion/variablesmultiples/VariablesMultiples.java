@@ -64,7 +64,7 @@
  * si es múltiplo de 10 y si es mayor o menor que 100. Consideraremos el 0 como positivo. 
  * Utiliza el operador condicional ( ? : ) dentro del println para resolverlo.
  */
-package programador.variablesmultiples;
+package programador.ejercitacion.variablesmultiples;
 
 import java.util.Scanner;
 

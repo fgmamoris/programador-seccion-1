@@ -4,7 +4,7 @@
  * el resultado en la tercera variable. Para finalizar imprimir mensaje con el 
  * resultado
  */
-package programador.ejercicio2;
+package programador.ejercitacion.ejercicio2;
 
 /**
  *

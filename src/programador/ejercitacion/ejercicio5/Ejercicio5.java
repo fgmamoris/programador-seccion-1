@@ -8,7 +8,7 @@
  
  * and open the template in the editor.
  */
-package programador.ejercicio5;
+package programador.ejercitacion.ejercicio5;
 
 import java.util.Calendar;
 import java.util.Date;
