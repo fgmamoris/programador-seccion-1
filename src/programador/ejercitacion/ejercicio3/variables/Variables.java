@@ -50,10 +50,10 @@ public class Variables {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-          int seleccion = 0;
-        
+        int seleccion = 0;
+
         Scanner sc = new Scanner(System.in);
-      do {
+        do {
             System.out.println("Seleccione un ejercicio, a fin de verificar el resultado");
             System.out.println("Ejercicio 1: ");
             System.out.println("Ejercicio 2: ");

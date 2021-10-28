@@ -21,7 +21,7 @@ B                      12%
 C                       9%
 D                       6%
  */
-package programador.sueldoconswitch;
+package programador.ejercitacion.ejercicio10.sueldoconswitch;
 
 import java.util.Scanner;
 
