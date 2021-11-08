@@ -45,15 +45,15 @@ public class RegistroTurnoAutomotor {
         System.out.println("Ingrese su nombre: ");
         String cliente = sc.next();
 
-        String dni;
-        do {
-            System.out.println("Ingrese su DNI: ");
-            dni = sc.next();
-            sc.nextLine();
-            if (dni.length() < 8 || dni.length() > 8) {
-                System.out.println("Error al ingresar el dni");
-            }
-        } while (dni.length() != 8);
+            String dni;
+            do {
+                System.out.println("Ingrese su DNI: ");
+                dni = sc.next();
+                sc.nextLine();
+                if (dni.length() < 8 || dni.length() > 8) {
+                    System.out.println("Error al ingresar el dni");
+                }
+            } while (dni.length() != 8);
         System.out.println("Ingrese la marca del vehiculo");
         String marca = sc.nextLine();
         int numeroDeDominio = 0;
