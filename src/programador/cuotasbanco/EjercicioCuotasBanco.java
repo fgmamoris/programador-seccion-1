@@ -29,7 +29,7 @@ import javax.swing.JOptionPane;
  *
  * @author Federico Mamoris
  */
-public class EjercicioCoutasBanco {
+public class EjercicioCuotasBanco {
 
     public static void main(String[] args) {
         String nombre = "", apellido = "", dniString = "";
